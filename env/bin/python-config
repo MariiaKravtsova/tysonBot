@@ -1,4 +1,4 @@
-#!/Users/mkravtsova/Github/tysonBot/env/bin/python
+#!/home/kravtsova/Github/tysonBot/env/bin/python
 
 import sys
 import getopt
